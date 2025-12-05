@@ -1,0 +1,27 @@
+header {
+        
+    background-image: url(https://imgs.search.brave.com/VP1SKQQ7UqItDtZgJmZV-6OFSqBicQvPU4tOALryPA0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJiYXQuY29t/L2ltZy8xNzM3Njcy/OC1oZWxsLWhkcmkt/aW4tdGV4dHVyZXMu/anBn);
+    image-resolution: inherit;
+    text-align: center;
+    padding: 10px;
+}
+
+footer {
+    background-color: crimson;
+    text-align: center;
+    padding: 10px;
+}
+
+body {
+    background-color: black;
+    font-family: OldEnglish;
+}
+
+nav {
+   width: 330px;
+}
+
+@font-face {
+    font-family: "OldEnglish";
+    src: url("OLDENG.TTF") format("truetype");
+}
