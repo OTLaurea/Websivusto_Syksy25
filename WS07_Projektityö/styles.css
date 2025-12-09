@@ -1,6 +1,6 @@
 header {
         
-    background-image: url(https://imgs.search.brave.com/VP1SKQQ7UqItDtZgJmZV-6OFSqBicQvPU4tOALryPA0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJiYXQuY29t/L2ltZy8xNzM3Njcy/OC1oZWxsLWhkcmkt/aW4tdGV4dHVyZXMu/anBn);
+    background-image: url(https://imgs.search.brave.com/bBF8WIn-90JtLFSe0Wb4lCE9IQ7-KQOymsBO12-48Wo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJzLmNvbS9p/bWFnZXMvaGQvcmVk/LXNhdGFuaWMtcG9z/dGVyLXdpdGgtc2t1/bGxzLWtqbjM1YXQy/bXVhejZhNWEuanBn);
     image-resolution: inherit;
     text-align: center;
     padding: 10px;
@@ -18,10 +18,18 @@ body {
 }
 
 nav {
-   width: 330px;
+   width: 335px;
 }
 
 @font-face {
     font-family: "OldEnglish";
     src: url("OLDENG.TTF") format("truetype");
+}
+
+button {
+    font-family: OldEnglish;
+}
+
+main {
+    color: red;
 }
