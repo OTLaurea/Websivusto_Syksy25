@@ -6,30 +6,18 @@ header {
     padding: 10px;
 }
 
-footer {
-    background-color: crimson;
-    text-align: center;
-    padding: 10px;
-}
-
 body {
     background-color: black;
-    font-family: OldEnglish;
-}
-
-nav {
-   width: 335px;
-}
-
-@font-face {
-    font-family: "OldEnglish";
-    src: url("OLDENG.TTF") format("truetype");
-}
-
-button {
-    font-family: OldEnglish;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 main {
     color: red;
+}
+
+footer {
+    background-color: crimson;
+    text-align: center;
+    padding: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
