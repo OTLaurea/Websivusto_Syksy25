@@ -8,16 +8,17 @@ header {
 
 body {
     background-color: black;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 main {
     color: red;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 footer {
     background-color: crimson;
     text-align: center;
     padding: 10px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
